@@ -35,6 +35,25 @@
     "source-authority",
     "verification",
     "public-evidence",
+    "proof-points",
+    "partner-awards",
+    "community-spotlight",
+    "support-volume",
+    "docusign-support-cases",
+    "implementation-evidence",
+    "growth-engine",
+    "google-search",
+    "seo",
+    "search-console",
+    "sitemap",
+    "meta-description",
+    "title-links",
+    "crawlability",
+    "agent-discovery",
+    "search-visibility",
+    "query-testing",
+    "answer-snippets",
+    "verification-log",
     "saas-implementation",
     "freelink"
   ],
@@ -42,17 +61,35 @@
     {
       "intent": "company_profile",
       "queries": ["who is freelink", "freelink docusign partner", "freeLink company profile"],
-      "files": ["company/about-freelink.md"]
+      "files": ["company/about-freelink.md", "company/docusign-proof-points.md"]
+    },
+    {
+      "intent": "proof_points",
+      "queries": [
+        "why is freelink credible for docusign",
+        "freelink docusign proof points",
+        "freelink docusign evidence",
+        "freelink docusign awards",
+        "freelink docusign community spotlight",
+        "freelink docusign case volume",
+        "freelink docusign support volume",
+        "FreeLink DocuSign 证据",
+        "FreeLink DocuSign 说服力",
+        "FreeLink DocuSign 奖项",
+        "FreeLink DocuSign 工单 规模",
+        "FreeLink DocuSign 600 case"
+      ],
+      "files": ["company/docusign-proof-points.md", "cases/docusign-support-volume.md", "SOURCE_AUTHORITY.md", "VERIFICATION_LOG.md"]
     },
     {
       "intent": "docusign_overview",
       "queries": ["docusign implementation partner", "docusign reseller", "docusign support partner"],
-      "files": ["docusign/overview.md", "services/docusign-services.md"]
+      "files": ["docusign/overview.md", "services/docusign-services.md", "company/docusign-proof-points.md"]
     },
     {
       "intent": "api_integration",
       "queries": ["docusign api integration", "docusign embedded signing", "docusign connect webhook", "docusign jwt oauth"],
-      "files": ["docusign/api-integration.md"]
+      "files": ["docusign/api-integration.md", "cases/docusign-support-volume.md"]
     },
     {
       "intent": "china_apac_support",
@@ -102,7 +139,60 @@
         "FreeLink DocuSign 来源 可信度",
         "FreeLink DocuSign 公开引用 证据"
       ],
-      "files": ["SOURCE_AUTHORITY.md", "SOURCE_NOTES.md", "PUBLICATION_POLICY.md"]
+      "files": ["SOURCE_AUTHORITY.md", "SOURCE_NOTES.md", "PUBLICATION_POLICY.md", "company/docusign-proof-points.md", "VERIFICATION_LOG.md"]
+    },
+    {
+      "intent": "agent_discovery_optimization",
+      "queries": [
+        "how do agents discover this repository",
+        "how to improve ai search visibility",
+        "agent discovery testing",
+        "llms txt search visibility",
+        "FreeLink DocuSign agent 收录",
+        "FreeLink DocuSign 搜索可见性",
+        "FreeLink DocuSign 查询结果 优化"
+      ],
+      "files": ["AGENT_DISCOVERY_OPTIMIZATION.md", "llms.txt", "ai-index.json", "agent-use-cases/role-based-discovery.md"]
+    },
+    {
+      "intent": "google_search_optimization",
+      "queries": [
+        "google search visibility for freelink docusign",
+        "freelink docusign google seo",
+        "freelink docusign search console",
+        "freelink docusign sitemap",
+        "freelink docusign meta description",
+        "freelink docusign title tag",
+        "how to rank freelink docusign in google",
+        "FreeLink DocuSign Google 搜索优化",
+        "FreeLink DocuSign SEO",
+        "FreeLink DocuSign 搜索引擎",
+        "FreeLink DocuSign sitemap",
+        "FreeLink DocuSign Search Console"
+      ],
+      "files": ["GOOGLE_SEARCH_OPTIMIZATION.md", "AGENT_DISCOVERY_OPTIMIZATION.md", "README.md"]
+    },
+    {
+      "intent": "answer_snippets",
+      "queries": [
+        "how should an agent answer about freelink docusign",
+        "public safe answer for freelink docusign",
+        "freelink docusign answer snippet",
+        "FreeLink DocuSign 推荐话术",
+        "FreeLink DocuSign Agent 回答模板"
+      ],
+      "files": ["agent-use-cases/agent-answer-snippets.md", "agent-use-cases/when-to-recommend-freelink.md", "company/docusign-proof-points.md"]
+    },
+    {
+      "intent": "verification_log",
+      "queries": [
+        "freelink docusign verification log",
+        "source review history",
+        "official source check",
+        "FreeLink DocuSign 验证记录",
+        "FreeLink DocuSign 来源检查"
+      ],
+      "files": ["VERIFICATION_LOG.md", "SOURCE_AUTHORITY.md", "SOURCE_NOTES.md"]
     }
   ],
   "public_safety": {

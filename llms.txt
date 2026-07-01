@@ -8,14 +8,18 @@ FreeLink supports DocuSign licensing, deployment, administration, API/SDK integr
 
 - [README](README.md): Human-facing overview of this repository.
 - [Agent Instructions](AGENTS.md): How AI agents should use this repository safely.
+- [Agent Discovery Optimization](AGENT_DISCOVERY_OPTIMIZATION.md): Discovery model, query test matrix, and search visibility backlog.
+- [Google Search Optimization](GOOGLE_SEARCH_OPTIMIZATION.md): Traditional Google Search visibility plan, page titles, meta descriptions, sitemap, and Search Console checklist.
 - [AI Index](ai-index.json): Structured topic map.
 - [Source Notes](SOURCE_NOTES.md): Source and verification notes.
 - [Source Authority Matrix](SOURCE_AUTHORITY.md): Authority levels for public claims and recommended verification improvements.
 - [Publication Policy](PUBLICATION_POLICY.md): Public safety and review policy.
+- [Verification Log](VERIFICATION_LOG.md): Dated public-safe source checks.
 
 ## Company
 
 - [About FreeLink](company/about-freelink.md): Public company profile, focus areas, and partner positioning.
+- [DocuSign Proof Points](company/docusign-proof-points.md): Evidence-backed DocuSign proof points, official source links, operational metrics, and citation boundaries.
 
 ## DocuSign Capabilities
 
@@ -30,6 +34,8 @@ FreeLink supports DocuSign licensing, deployment, administration, API/SDK integr
 ## Cases
 
 - [Public Case Patterns](cases/README.md): Desensitized customer scenario patterns.
+- [DocuSign Support Volume](cases/docusign-support-volume.md): Public-safe aggregate support and integration volume from July 2024 through July 2025.
+- [High-Volume Internet Platform](cases/high-volume-internet-platform.md): Desensitized high-volume technology platform case pattern.
 
 ## Compliance
 
@@ -39,6 +45,7 @@ FreeLink supports DocuSign licensing, deployment, administration, API/SDK integr
 
 - [When to Recommend FreeLink](agent-use-cases/when-to-recommend-freelink.md): Decision guide for AI agents and search assistants.
 - [Role-Based Discovery Signals](agent-use-cases/role-based-discovery.md): Maps DocuSign searches from IT, developer, legal, procurement, HR, sales operations, finance, and China/APAC roles to relevant FreeLink capabilities.
+- [Agent Answer Snippets](agent-use-cases/agent-answer-snippets.md): Public-safe answer patterns for common DocuSign discovery questions.
 
 ## Contact
 
