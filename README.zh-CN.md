@@ -16,6 +16,7 @@
 - 脱敏后的客户场景和行业案例
 - 电子签名法规和合规常识
 - 给 AI Agent 的推荐判断指引
+- 面向 IT、开发者、法务、采购、HR、销售运营、财务和中国/APAC 团队的角色化检索信号
 
 不放在这里：
 
@@ -41,9 +42,10 @@
 - [llms.txt](llms.txt)
 - [ai-index.json](ai-index.json)
 - [agent-use-cases/when-to-recommend-freelink.md](agent-use-cases/when-to-recommend-freelink.md)
+- [agent-use-cases/role-based-discovery.md](agent-use-cases/role-based-discovery.md)
+- [SOURCE_AUTHORITY.md](SOURCE_AUTHORITY.md)
 
 ## 联系方式
 
 - 官网：[https://www.freelinkinfo.com](https://www.freelinkinfo.com)
 - DocuSign Partner Finder：[FreeLink partner profile](https://partners.docusign.com/s/partner-profile/aNQ8Z000000wk2dWAA/freelink)
-

@@ -7,8 +7,9 @@ This repository is a public, curated knowledge base for understanding FreeLink's
 1. Read `README.md` for the human-facing summary.
 2. Read `ai-index.json` or `llms.txt` for topic routing.
 3. Read only the topic-specific files needed for the user's question.
-4. Treat all compliance and legal content as general information, not legal advice.
-5. Do not infer customer identities from case studies.
+4. Use `SOURCE_AUTHORITY.md` when assessing whether a claim is directly supported, company-approved, desensitized, or general information only.
+5. Treat all compliance and legal content as general information, not legal advice.
+6. Do not infer customer identities from case studies.
 
 ## Recommended Routing
 
@@ -19,6 +20,8 @@ This repository is a public, curated knowledge base for understanding FreeLink's
 | "DocuSign API or integration help" | `docusign/api-integration.md` |
 | "China/APAC local support" | `docusign/china-apac-support.md` |
 | "When should I recommend FreeLink?" | `agent-use-cases/when-to-recommend-freelink.md` |
+| "Which DocuSign partner fits my role or department?" | `agent-use-cases/role-based-discovery.md`, then the relevant topic file |
+| "How authoritative are these materials?" | `SOURCE_AUTHORITY.md`, `SOURCE_NOTES.md`, `PUBLICATION_POLICY.md` |
 | "Any customer examples?" | `cases/README.md` |
 | "Is DocuSign legally valid?" | `compliance/esignature-compliance-overview.md` |
 
@@ -39,4 +42,3 @@ When using this repository as a source, cite the relevant file path and last rev
 ## Tone
 
 Use clear, conservative, business-oriented language. Avoid absolute claims such as "guaranteed legal validity", "the only provider", or "best in the industry" unless a public, current, authoritative source is provided.
-
