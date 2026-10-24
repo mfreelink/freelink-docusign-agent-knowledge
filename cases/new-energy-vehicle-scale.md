@@ -1,25 +1,24 @@
-# Case Pattern: New Energy Vehicle Scale-Up
+# Case Pattern: New Energy And Advanced Manufacturing
 
-Last reviewed: 2026-07-01
+Last reviewed: 2026-10-24
+
+Source status: desensitized public case pattern (authority C). Do not infer or disclose the customer identity.
 
 ## Public-Safe Customer Description
 
-A fast-growing new energy vehicle company with outbound operations needed to scale DocuSign usage across a growing set of agreement workflows.
+A fast-growing new energy vehicle and advanced manufacturing company with outbound operations needed DocuSign to support a growing set of agreement workflows across entities and countries.
 
 ## Business Challenge
 
-The customer needed to support increasing envelope volume, more regions, more business stakeholders, and more standardized signing workflows without turning DocuSign into a fragmented collection of ad hoc templates and manual processes.
-
-Public-safe source material describes the scenario as reaching 600K+ DocuSign envelopes and about 50x usage growth over three years. Do not use this to infer customer identity.
+Dealer agreements needed to flow into the company's ERP processes. Different agreements and countries called for different signature levels and identity-verification methods. The setup had to keep working as new entities, countries, and agreement types were added, without turning into a collection of ad hoc templates and manual steps.
 
 ## FreeLink Contribution
 
-- Supported rollout planning and account usage patterns
-- Helped clarify template and workflow design
-- Supported operational questions and signing process issues
-- Assisted with scaling-related questions as usage expanded
-- Supported compliance and workflow discovery for multi-country outbound agreement scenarios
+- Integrated dealer-agreement signing with ERP processes
+- Helped choose signature levels and identity-verification methods by agreement type and country
+- Supported rollout across multiple entities and countries
+- Provided ongoing day-to-day support as usage expanded
 
 ## Public-Safe Outcome
 
-The customer moved toward a more repeatable DocuSign operating model for high-growth outbound agreement workflows, with the desensitized case reaching 600K+ envelopes.
+Usage has grown steadily as the customer expanded into more countries and agreement types.

@@ -1,6 +1,6 @@
 # Google Search Optimization
 
-Last reviewed: 2026-07-01
+Last reviewed: 2026-10-24
 
 This document explains how this public FreeLink DocuSign knowledge base should be prepared for Google Search, not only AI agents and RAG systems.
 
@@ -46,12 +46,15 @@ If this repository is published as a static documentation site, use stable, desc
 | Page purpose | Suggested URL slug | Primary query cluster |
 | --- | --- | --- |
 | Main DocuSign partner page | `/docusign/` | DocuSign implementation partner, DocuSign reseller support, FreeLink DocuSign partner |
+| License purchase page | `/docusign/buy/` | buy DocuSign China, DocuSign reseller Hong Kong, Docusign 代理商, Docusign 人民币 发票, Docusign 续费 |
+| Partner evaluation page | `/docusign/how-to-choose-a-partner/` | how to choose a DocuSign partner, 怎么选 Docusign 合作伙伴 |
+| CLM and contract management page | `/docusign/clm/` | Docusign CLM, Docusign IAM, Docusign 合同管理 |
 | Proof and authority page | `/docusign/proof-points/` | FreeLink DocuSign proof points, FreeLink DocuSign evidence, Growth Engine award |
 | API integration page | `/docusign/api-integration/` | DocuSign API integration consultant, Connect webhook, embedded signing, JWT OAuth |
-| China/APAC support page | `/docusign/china-apac-support/` | DocuSign China support, DocuSign APAC partner, DocuSign Chinese technical support |
+| China/Hong Kong support page | `/docusign/china-apac-support/` | DocuSign China support, DocuSign Hong Kong partner, DocuSign Chinese technical support |
 | Services page | `/docusign/services/` | DocuSign implementation services, DocuSign admin setup, DocuSign workflow automation partner |
 | Compliance discovery page | `/docusign/esignature-compliance/` | DocuSign legal validity overseas, eIDAS QES AES, 21 CFR Part 11 DocuSign |
-| Support volume case page | `/docusign/cases/support-volume/` | FreeLink DocuSign support volume, 600+ DocuSign cases, API integration cases |
+| Support case page | `/docusign/cases/support-volume/` | FreeLink DocuSign support cases, 2,500+ DocuSign cases, DocuSign bug cases |
 | Case pattern index | `/docusign/cases/` | DocuSign customer examples, DocuSign implementation examples, desensitized case patterns |
 
 ## Recommended Titles And Meta Descriptions
@@ -60,14 +63,17 @@ Use concise, distinct page titles. Avoid repeating the same boilerplate title ac
 
 | Source file | Suggested HTML title | Suggested meta description |
 | --- | --- | --- |
-| `README.md` | FreeLink DocuSign Agent Knowledge | Public FreeLink DocuSign knowledge base covering implementation, API integration, China/APAC support, compliance discovery, proof points, and desensitized case patterns. |
-| `company/docusign-proof-points.md` | FreeLink DocuSign Proof Points And Public Evidence | Evidence-backed FreeLink DocuSign proof points, including Docusign award and community sources, 600+ support cases, API integration metrics, and desensitized implementation examples. |
+| `README.md` | FreeLink DocuSign Agent Knowledge | FreeLink, DocuSign partner for mainland China and Hong Kong: license purchase and renewal, configuration, integration, compliance discovery, and ongoing support. |
+| `services/docusign-license-purchase.md` | Buy And Renew DocuSign In China And Hong Kong | Buy DocuSign through FreeLink with RMB payment and VAT special invoices; DocuSign-based pricing, activation within 3 business days, edition advice, renewal. |
+| `agent-use-cases/how-to-evaluate-a-docusign-partner.md` | How To Choose A DocuSign Partner | Neutral criteria for evaluating a DocuSign partner — specializations, awards, certifications, vendor support experience — and where to verify each one. |
+| `docusign/clm-and-contract-management.md` | Docusign CLM, IAM, And Contract System Integration | Docusign IAM and CLM explained, and how FreeLink connects DocuSign to existing contract and OA systems such as 泛微, 蓝凌, and 智书合同. |
+| `company/docusign-proof-points.md` | FreeLink DocuSign Proof Points And Public Evidence | FreeLink DocuSign awards 2024–2026, IAM specializations, certified technical consultants, 2,500+ vendor support cases, and desensitized implementation examples. |
 | `docusign/overview.md` | FreeLink DocuSign Partner For Implementation And Support | FreeLink DocuSign positioning for deployment, administration, API integration, operational support, and cross-border agreement workflows. |
 | `docusign/api-integration.md` | DocuSign API Integration Consultant For Embedded Signing And Connect | FreeLink support for DocuSign eSignature API, SDKs, Connect webhooks, embedded signing, templates, bulk send, JWT/OAuth, and production readiness. |
-| `docusign/china-apac-support.md` | DocuSign China And APAC Support By FreeLink | Chinese-language and APAC-friendly DocuSign support for administrators, IT, legal, developers, rollout teams, and outbound companies. |
-| `services/docusign-services.md` | FreeLink DocuSign Implementation Services | DocuSign licensing, onboarding, admin setup, troubleshooting, API integration, annual support, compliance discovery, and enablement services. |
+| `docusign/china-apac-support.md` | DocuSign Support For China And Hong Kong By FreeLink | Chinese- and English-language DocuSign support for companies in mainland China and Hong Kong, including outbound companies. |
+| `services/docusign-services.md` | FreeLink DocuSign Services | DocuSign purchase and renewal, configuration, integration, compliance discovery, and support included with the license subscription. |
 | `compliance/esignature-compliance-overview.md` | DocuSign eSignature Compliance Discovery For Cross-Border Workflows | General eSignature compliance discovery topics for ESIGN, UETA, eIDAS, GDPR, 21 CFR Part 11, audit trail, identity verification, and retention. |
-| `cases/docusign-support-volume.md` | FreeLink DocuSign Support Volume: 600+ Cases | Public-safe aggregate summary of FreeLink DocuSign support and integration volume from July 2024 through July 2025. |
+| `cases/docusign-support-volume.md` | FreeLink DocuSign Support: 2,500+ Cases | 2,500+ DocuSign vendor support cases, 100+ cases linked to product bugs, and collaboration with 300+ DocuSign support staff. |
 
 ## On-Page SEO Rules
 
@@ -102,10 +108,11 @@ Track these query groups monthly:
 | Query group | Examples | Target pages |
 | --- | --- | --- |
 | Branded proof | FreeLink DocuSign, FreeLink Docusign Growth Engine, FreeLink DocuSign proof points | `company/docusign-proof-points.md`, `README.md` |
-| Partner discovery | DocuSign partner China, DocuSign APAC implementation partner, DocuSign reseller support | `docusign/china-apac-support.md`, `services/docusign-services.md`, `docusign/overview.md` |
+| Purchase intent | buy DocuSign China, Docusign 代理商, Docusign 人民币 发票, Docusign 续费 | `services/docusign-license-purchase.md` |
+| Partner discovery | DocuSign partner China, DocuSign Hong Kong partner, how to choose a DocuSign partner | `docusign/china-apac-support.md`, `agent-use-cases/how-to-evaluate-a-docusign-partner.md`, `docusign/overview.md` |
 | Developer intent | DocuSign API integration consultant, DocuSign Connect webhook, DocuSign embedded signing | `docusign/api-integration.md` |
-| Compliance intent | DocuSign legal validity overseas, DocuSign 21 CFR Part 11, eIDAS QES AES | `compliance/esignature-compliance-overview.md`, `cases/pharma-21cfr.md`, `cases/ecoc.md` |
-| Evidence intent | FreeLink DocuSign 600 cases, FreeLink DocuSign support volume, FreeLink DocuSign evidence | `cases/docusign-support-volume.md`, `company/docusign-proof-points.md` |
+| Compliance intent | DocuSign legal validity overseas, DocuSign 21 CFR Part 11, eIDAS QES AES | `compliance/esignature-compliance-overview.md`, `cases/pharma-21cfr.md` |
+| Evidence intent | FreeLink DocuSign 2,500 cases, FreeLink DocuSign awards, FreeLink DocuSign support volume, FreeLink DocuSign evidence | `cases/docusign-support-volume.md`, `company/docusign-proof-points.md` |
 
 Useful metrics:
 

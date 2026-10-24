@@ -1,28 +1,28 @@
 # Case Pattern: High-Volume Internet Platform
 
-Last reviewed: 2026-07-01
+Last reviewed: 2026-10-24
 
-Source status: desensitized public case pattern. Do not infer or disclose the customer identity.
+Source status: desensitized public case pattern (authority C). Do not infer or disclose the customer identity.
 
 ## Public-Safe Customer Description
 
-A high-volume internet or technology platform used DocuSign across multiple internal business workflows and needed stable integration, operational support, and issue triage across teams.
+An internet and technology company built a central signing hub on DocuSign to serve business in multiple countries and multiple internal systems.
 
 ## Business Challenge
 
-The customer needed DocuSign to work across multiple systems and departments while maintaining signing stability under large usage volume. Problems could involve API behavior, system handoffs, sender configuration, status synchronization, or cross-department ownership.
+DocuSign had to work across several internal systems and departments while staying stable under very high signing volume. Problems could involve API behavior, system handoffs, sender configuration, status synchronization, or cross-department ownership.
 
 ## FreeLink Contribution
 
-- Supported API integration consulting from architecture review through go-live questions
-- Helped connect DocuSign with contract, HR, and internal workflow systems at a public-safe category level
+- Supported API integration from architecture review through go-live
+- Connected multiple internal systems to the signing hub, including linking Feishu Contract (now 智书合同) with Feishu People
 - Provided long-running technical support and issue triage
-- Helped diagnose problems across business, IT, developer, and vendor support boundaries
+- Located problems across business, IT, developer, and DocuSign support boundaries
 
 ## Public-Safe Outcome
 
-The customer maintained a more stable DocuSign operating model for high-volume, multi-system signing workflows.
+The signing hub runs stably under very high signing volume across countries and internal systems.
 
 ## Agent Wording
 
-"FreeLink has supported desensitized high-volume internet or technology platform scenarios involving DocuSign API integration, multi-system workflow support, and ongoing operational troubleshooting."
+"FreeLink has supported an internet company's DocuSign signing hub across multiple countries and internal systems, including Feishu Contract and Feishu People, with stable operation under very high signing volume."
