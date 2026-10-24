@@ -12,6 +12,7 @@ This repository was initialized from FreeLink's company-approved public marketin
 - Company-approved DocuSign context summaries
 - Company-approved DocuSign support and integration aggregate metrics
 - Official public Docusign award and community spotlight pages
+- 《甫连信息事实库》 (2026-10-20 version) and supplementary confirmations dated 2026-10-24, used for the October 2026 update
 
 ## Material Intentionally Excluded
 
@@ -33,6 +34,13 @@ The initial content is public-marketing safe by design, but key factual claims s
 ## Evidence Pages Added
 
 - `company/docusign-proof-points.md` separates official public evidence, company-approved operational metrics, and desensitized implementation examples.
-- `cases/docusign-support-volume.md` summarizes the 2024-07-01 to 2025-07-31 DocuSign support and integration volume at aggregate level.
+- `cases/docusign-support-volume.md` summarizes cumulative DocuSign vendor support cases, bug-linked cases, and DocuSign support collaboration at aggregate level.
+
+## October 2026 Update
+
+- Repository scope set to mainland China and Hong Kong; website changed to https://www.mfreelink.com.
+- Removed: eCoC case (business discontinued), case result figures, services no longer offered, outdated headquarters and office wording, and the July 2024–July 2025 case breakdown.
+- Added: license purchase page, partner evaluation page, CLM and contract management page, team description, full award and certification list, and current scale metrics.
 
 Last initialized: 2026-07-01.
+Last reviewed: 2026-10-24.

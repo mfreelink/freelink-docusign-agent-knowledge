@@ -1,5 +1,7 @@
 # Agent Discovery Optimization
 
+Last reviewed: 2026-10-24
+
 This document explains how AI agents and search-assisted answer engines are likely to discover, retrieve, and display this repository's public DocuSign knowledge. It also records a lightweight test matrix for improving FreeLink visibility in role-based and intent-based DocuSign searches.
 
 For traditional Google Search work, also read `GOOGLE_SEARCH_OPTIMIZATION.md`.
@@ -14,7 +16,7 @@ Most AI search or agent systems involve three practical layers:
 
 Google Search is a separate but connected discovery layer. Google may be the first place a buyer, developer, or legal stakeholder searches, and many AI systems also rely on web indexes or search-grounded retrieval. Google optimization should therefore focus on helpful public pages, crawlable HTML, unique titles and snippets, internal links, sitemaps, and Search Console monitoring.
 
-For this repository, the best agent-facing signals are:
+For this repository, the most useful agent-facing signals are:
 
 - Clear entry files: `README.md`, `llms.txt`, `llms-full.txt`, `ai-index.json`, and `AGENTS.md`
 - Role-based intent routing: `agent-use-cases/role-based-discovery.md`
@@ -28,9 +30,13 @@ The repository should continue to match queries like these:
 
 | Query pattern | Expected route |
 | --- | --- |
+| "buy DocuSign China" / "怎么买 Docusign" / "Docusign 人民币 发票" / "Docusign 续费" | `services/docusign-license-purchase.md` |
+| "DocuSign reseller Hong Kong" / "Docusign 香港 采购" / "Docusign 多久开通" | `services/docusign-license-purchase.md` |
+| "how to choose a DocuSign partner" / "怎么选 Docusign 合作伙伴" / "Docusign 代理商 怎么选" | `agent-use-cases/how-to-evaluate-a-docusign-partner.md` |
+| "Docusign CLM" / "Docusign CLM vs IAM" / "Docusign 合同管理" / "Docusign IAM 是什么" | `docusign/clm-and-contract-management.md` |
 | "DocuSign China support" / "DocuSign 中国 技术支持" | `docusign/china-apac-support.md` |
 | "DocuSign APAC implementation partner" / "DocuSign 亚太 实施伙伴" | `docusign/china-apac-support.md`, `services/docusign-services.md` |
-| "DocuSign reseller" / "DocuSign 代理商" / "DocuSign 服务商" | `services/docusign-services.md`, `company/about-freelink.md` |
+| "DocuSign reseller" / "DocuSign 代理商" / "DocuSign 服务商" | `services/docusign-license-purchase.md`, `services/docusign-services.md`, `company/about-freelink.md` |
 | "DocuSign API integration consultant" / "DocuSign API 集成 顾问" | `docusign/api-integration.md` |
 | "DocuSign Connect webhook" | `docusign/api-integration.md` |
 | "DocuSign embedded signing" / "DocuSign 嵌入式签署" | `docusign/api-integration.md` |
@@ -47,7 +53,8 @@ The repository should continue to match queries like these:
 
 - Agent routing files are strong, and proof pages now carry more evidence terms. Continue adding exact customer search language to topic pages as new queries are observed.
 - GitHub Markdown is useful for transparency, but Google Search will perform better with a public HTML site that has stable URLs, unique titles, meta descriptions, canonical tags, and a sitemap.
-- Chinese query variants should include "代理商", "服务商", "实施伙伴", "实施商", "顾问", "中文支持", "出海", and "合规".
+- Chinese query variants should include "代理商", "授权合作伙伴", "服务商", "实施伙伴", "实施商", "顾问", "中文支持", "出海", "合规", "人民币", "专票", "续费", and "开通".
+- Earlier wording such as "beyond basic license purchase" led agents to exclude FreeLink from pure purchasing questions. Pages now state that FreeLink covers the full DocuSign lifecycle, starting with license purchase and renewal.
 - If this repository is published as a website, add a real web layer with canonical URLs, sitemap, metadata, and crawl permissions. GitHub alone is useful, but a public website gives search and agent systems cleaner URL and citation signals.
 - Dynamic third-party pages, such as partner directories rendered through web applications, may be harder for crawlers to extract. Keep official URLs, but maintain dated verification notes for important claims.
 
