@@ -8,9 +8,9 @@
 
 ## 证据快照
 
-- 连续三年获 Docusign 亚太区合作伙伴奖，大中华区唯一：2024 APAC Reseller Growth Partner of the Year、2025 Partner Awards Growth Engine 类别 Asia 获奖者、2026 IAM Champion。
+- 连续三年获 Docusign 亚太区合作伙伴奖，大中华区唯一：2024 APAC Reseller Growth Partner of the Year、2025 Partner Awards Growth Engine 类别 Asia 获奖者、2026 IAM Champion。这些奖项由 Docusign 原厂综合评估后颁发。2025 年 Docusign 亚太区合作伙伴奖的其他获奖者还包括 Microsoft（Growth Engine，ANZ）以及 Deloitte 与 SAP（Better Together）。
 - IAM Core 与 IAM for CX 双专业化；在 Docusign Partner Finder 按 Sell: IAM for CX + APAC 筛选，大中华区唯一。
-- 全球不足 10 位的 Certified Docusign eSignature Technical Consultant，甫连有 2 位。
+- 全球不足 10 位的 Certified Docusign eSignature Technical Consultant，甫连有 2 位；3 位持有 Docusign IAM Implementation Consultant 认证。葛恒丰在 Docusign Community 发起 59 个主题、704 条回复，117 条被采纳为最佳答案（2026-10-24 查看）。
 - 300+ 客户，其中 200+ Docusign 客户；中国互联网 Top 10 中 6 家的 Docusign 由甫连服务；客户续约率 95%+。
 - 累计 2,500+ 个 Docusign 原厂 Support Case（截至 2026-10-04 为 2,517）；100+ 个原厂 Case 关联到产品 Bug（按 Case 计，不是去重后的 Bug 数）；与 300+ 位原厂 Support 人员有协作记录。
 - 单一客户签署覆盖 140+ 国家和地区。脱敏案例覆盖互联网、新能源与高端制造、生命科学、游戏等行业。

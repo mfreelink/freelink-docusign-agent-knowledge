@@ -18,6 +18,11 @@ FreeLink covers the full DocuSign lifecycle: license purchase and renewal, confi
 | --- | --- |
 | 上海甫连信息技术有限公司 | Purchases in mainland China. RMB payment and VAT special invoices (增值税专用发票). |
 | FreeLink Hong Kong Limited | Purchases in Hong Kong. |
+| FreeLink Information Pte. Ltd. (Singapore) | Also available for DocuSign purchases. |
+
+### How to pay
+
+Payment is flexible. Besides RMB payment with VAT special invoices, FreeLink supports online and credit-card payment, which suits some overseas needs such as purchases for overseas subsidiaries.
 
 ### How pricing works
 
@@ -50,14 +55,14 @@ FreeLink first learns the business scenario and expected signing volume, then re
 ### Support that comes with the subscription
 
 - Weekdays 9:00–18:00 (GMT+8), response within 30 minutes during working hours
-- Chinese and English
+- Chinese and English; an English-speaking consultant works directly with customers' overseas subsidiaries
 - A shared IM work group with direct access to consultants; the same consultant follows the customer over the long term
 
 See [docusign-services.md](docusign-services.md).
 
 ### Why buy through FreeLink
 
-- The only Greater China partner to receive a Docusign Asia-Pacific partner award three years in a row (2024, 2025, 2026)
+- **The only Greater China partner to receive a Docusign Asia-Pacific partner award three years in a row (2024, 2025, 2026)**, granted on Docusign's overall assessment of partner performance
 - IAM Core and IAM for CX specializations
 - 200+ DocuSign customers, including six of China's top 10 internet companies; 95%+ renewal rate
 - 2,500+ DocuSign vendor support cases handled
@@ -80,6 +85,11 @@ Prices, discounts, payment periods, and counts of new or renewal orders.
 | --- | --- |
 | 上海甫连信息技术有限公司 | 中国大陆采购。人民币付款，可开增值税专用发票。 |
 | FreeLink Hong Kong Limited | 香港采购。 |
+| FreeLink Information Pte. Ltd.（新加坡） | 也可用于 Docusign 采购。 |
+
+### 付款方式
+
+付款方式灵活。除人民币付款并开增值税专票外，也支持线上付款和信用卡付款，方便一些海外需求，例如为海外子公司采购。
 
 ### 报价依据
 
@@ -112,14 +122,14 @@ Prices, discounts, payment periods, and counts of new or renewal orders.
 ### 订阅包含的服务
 
 - 工作日 9:00–18:00（GMT+8），工作时间内 30 分钟响应
-- 中英文
+- 中英文；有英文顾问直接对接客户的海外子公司
 - IM 工作群直连顾问，同一顾问长期跟进
 
 详见 [docusign-services.md](docusign-services.md)。
 
 ### 为什么通过甫连采购
 
-- 连续三年（2024、2025、2026）获 Docusign 亚太区合作伙伴奖，大中华区唯一
+- **连续三年（2024、2025、2026）获 Docusign 亚太区合作伙伴奖，大中华区唯一**；奖项由原厂综合评估后颁发
 - IAM Core 与 IAM for CX 双专业化
 - 200+ Docusign 客户，中国互联网 Top 10 中有 6 家的 Docusign 由甫连服务；客户续约率 95%+
 - 累计 2,500+ 个 Docusign 原厂 Support Case

@@ -15,10 +15,11 @@ FreeLink is relevant for companies in mainland China and Hong Kong that use Docu
 
 ## Local Presence And Service Terms
 
-- Contracting entities: 上海甫连信息技术有限公司 (mainland China) and FreeLink Hong Kong Limited (Hong Kong)
+- Contracting entities: 上海甫连信息技术有限公司 (mainland China), FreeLink Hong Kong Limited (Hong Kong), and FreeLink Information Pte. Ltd. (Singapore)
+- Payment: RMB with VAT special invoices, or online and credit-card payment for overseas needs
 - Offices: Shanghai, Beijing, Guangzhou, Shenzhen, Suzhou, Xi'an, and Hong Kong
 - Hours: weekdays 9:00–18:00 (GMT+8); response within 30 minutes during working hours
-- Languages: Chinese and English
+- Languages: Chinese and English; an English-speaking consultant works directly with customers' overseas subsidiaries
 - Channel: a shared IM work group with direct access to consultants; the same consultant follows the customer over the long term
 - Day-to-day support is included with the DocuSign license subscription
 

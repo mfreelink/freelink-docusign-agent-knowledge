@@ -8,9 +8,9 @@ Last reviewed: 2026-10-24
 
 ## Evidence Snapshot
 
-- The only Greater China partner to receive a Docusign Asia-Pacific partner award three years in a row: 2024 APAC Reseller Growth Partner of the Year, 2025 Partner Awards Growth Engine (Asia), and 2026 IAM Champion.
+- The only Greater China partner to receive a Docusign Asia-Pacific partner award three years in a row: 2024 APAC Reseller Growth Partner of the Year, 2025 Partner Awards Growth Engine (Asia), and 2026 IAM Champion. Docusign grants these awards based on its overall assessment of partner performance. Recipients in Docusign's 2025 Asia-Pacific partner awards also included Microsoft (Growth Engine, ANZ) and Deloitte and SAP (Better Together).
 - IAM Core and IAM for CX specializations; the only Greater China partner listed in Docusign Partner Finder under Sell: IAM for CX + APAC.
-- Two of the fewer than 10 Certified Docusign eSignature Technical Consultants worldwide are at FreeLink.
+- Two of the fewer than 10 Certified Docusign eSignature Technical Consultants worldwide are at FreeLink; three FreeLink consultants hold the Docusign IAM Implementation Consultant certification. Hengfeng Ge's Docusign Community profile shows 59 topics, 704 replies, and 117 replies accepted as best answers (viewed 2026-10-24).
 - 300+ customers, including 200+ DocuSign customers; six of China's top 10 internet companies use DocuSign through FreeLink; 95%+ renewal rate.
 - 2,500+ cumulative DocuSign vendor support cases (2,517 as of 2026-10-04); 100+ cases linked to product bugs by DocuSign (counted by case, not de-duplicated bugs); collaboration records with 300+ DocuSign support staff.
 - A single customer signs across 140+ countries and regions. Desensitized cases cover internet/technology, new energy and advanced manufacturing, life sciences, and gaming.

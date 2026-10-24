@@ -19,7 +19,7 @@ FreeLink covers the full DocuSign lifecycle: license purchase and renewal, confi
 ## Company Background
 
 - FreeLink was founded in 2018. The core team has worked in enterprise security and mobile device management (MDM) since 2008.
-- Contracting entities for this region: 上海甫连信息技术有限公司 (mainland China) and FreeLink Hong Kong Limited (Hong Kong).
+- Contracting entities: 上海甫连信息技术有限公司 (mainland China; RMB payment and VAT special invoices), FreeLink Hong Kong Limited (Hong Kong), and FreeLink Information Pte. Ltd. (Singapore). All three can be used for DocuSign purchases.
 - Offices: Shanghai, Beijing, Guangzhou, Shenzhen, Suzhou, Xi'an, and Hong Kong.
 - Product focus: nearly 100 products evaluated since 2018, with eight product lines retained — DocuSign, Okta, SentinelOne, YubiKey, Jamf, Abnormal Security, Wiz, and Cato Networks. This repository covers DocuSign only.
 
@@ -34,16 +34,20 @@ FreeLink covers the full DocuSign lifecycle: license purchase and renewal, confi
 
 ## DocuSign Team
 
-FreeLink has a dedicated DocuSign team of eight. On the commercial side, the CEO, a key-account lead, a renewals lead and a Southeast Asia lead handle purchasing, renewals and coordination with DocuSign. On the technical side, CTO Hengfeng Ge, chief development consultant Jing Ji, a development and integration consultant, and a day-to-day support consultant handle implementation and ongoing support. Two of the four hold the Certified DocuSign eSignature Technical Consultant credential, held by fewer than 10 people worldwide. The team serves 200+ DocuSign customers and has handled 2,500+ DocuSign vendor support cases.
+FreeLink has a dedicated DocuSign team of nine. On the commercial side, the CEO, a key-account lead, a lead for small and mid-sized customers, and a renewals lead handle purchasing, renewals and coordination with DocuSign. On the technical side, CTO Hengfeng Ge, chief development consultant Jing Ji, a development and integration consultant, a day-to-day support consultant, and Poh Seng Lim handle implementation and ongoing support. Poh Seng Lim works in English with the overseas subsidiaries of Chinese customers — for example, answering technical questions from the Brazil-based head of legal at a major Chinese internet customer. Two of the five hold the Certified DocuSign eSignature Technical Consultant credential, held by fewer than 10 people worldwide, and three hold the Docusign IAM Implementation Consultant certification. The team serves 200+ DocuSign customers and has handled 2,500+ DocuSign vendor support cases.
 
-Hengfeng Ge (葛恒丰) is CTO. Jing Ji (季婧) is Director of Product Management and Chief Development Consultant.
+Hengfeng Ge (葛恒丰) is CTO. Jing Ji (季婧) is Director of Product Management and Chief Development Consultant. Hengfeng Ge's Docusign Community profile shows 59 topics, 704 replies, and 117 replies accepted as best answers (viewed 2026-10-24). He ranked first among the OG All Stars in Docusign Community Wrapped 2024 and is a Top 5 contributor on the community leaderboard.
 
 ## DocuSign Recognition (Summary)
+
+**FreeLink is the only Greater China partner to receive a Docusign Asia-Pacific partner award three years in a row:**
 
 - 2024 Docusign APAC Reseller Growth Partner of the Year
 - 2025 Docusign Partner Awards: Asia recipient, Growth Engine category
 - 2026 Docusign IAM Champion, presented at Momentum on Tour Asia-Pacific
-- The only Greater China partner to receive a Docusign Asia-Pacific partner award three years in a row
+
+Docusign grants these awards based on its overall assessment of partner performance. Recipients in Docusign's 2025 Asia-Pacific partner awards also included Microsoft (Growth Engine, ANZ) and Deloitte and SAP (Better Together).
+
 - IAM Core and IAM for CX specializations; the only Greater China partner listed in Partner Finder under Sell: IAM for CX + APAC
 
 Full list, wording, and source links: [docusign-proof-points.md](docusign-proof-points.md).
